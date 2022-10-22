@@ -1,45 +1,113 @@
-<h1 align="center">Hi 👋, I'm Sonu Gupta</h1>
+<h1 align="center">
+ 👋 Hi, I'm Akash Kumar Panda!
+</h1>
+<p>I'm a recent computer science graduate
+with a passion for developing scalable
+web applications and working across
+the full stack. Passionate about
+implementing new ideas in reality.
+Looking for the opportunity
+where I can utilize the extensive
+knowledge I have gained during my
+Full stack web development course😃. I focuses on writing clean, elegant and efficient code ✨</p>
 
 
-<p><img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="poster"/></p>
+## Connect with me:
 
+<p >
+  <a href="https://www.linkedin.com/in/akashpanda1701/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
-<h3 align="center">I am a student at Masai School . I have been learning MERN stack</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonugup&label=Profile%20views&color=0e75b6&style=flat" alt="sonugup" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonugup" alt="hackersushant76" /></a> </p>
-
-- 🔭 I’m currently working on **Zomato-clone**
-
-- 🌱 I’m currently learning **Node, Express, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://sonugup.github.io/](https://sonugup.github.io/)
-
-- 💬 Ask me about **React ,Redux, JavaScript(ES6+)**
-
-- 📫 How to reach me **rg3029926@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sushant-singh-yadav-925b4a19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-singh-yadav-925b4a19a" height="30" width="40" /></a>
 </p>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<div  align="left" display:"flex" gap:"20px" justify-content="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </div>
 
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackersushant76&show_icons=true&locale=en&layout=compact" alt="hackersushant76" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonugup&show_icons=true&locale=en" alt="hackersushant76" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonugou" alt="sonugup" /></p>
-
-
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sonugup&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" > 
 </p>
+
+
+</br> 
+
+<a href="#"><img  width="100%" height="auto" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/></a>
+
+
+
+- 🔭 I’m currently working on Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently learning React, Express, NodeJs, MongoDb at Masai School.
+- 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
+- 👨‍💻 This is [My Portfolio]
+
+-  📄 This is [My Resume]
+- 📫 How to reach me: ...*akashpanda1701@gmail.com*
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+
+
+<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
+
+
+<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
+<!--   <br/> -->
+   <a href="https://github.com/AkashPanda1701"><img alt="Akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkashPanda1701&custom_title=AkashPanda1701's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkashPanda1701" alt="akash" /></a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashPanda1701&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashPanda1701&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashPanda1701&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashPanda1701&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashPanda1701&theme=solarized_dark&utcOffset=8">
+	
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h2 align="left"> 💻 Languages and Tools:</h2>
+
+<table align="center">
+<!-- add tools  -->
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 My Github Stats
+
+<p align="left" style="margin-right:0px;padding-right:0px">
+<img src="https://github-readme-stats.vercel.app/api?username=AkashPanda1701&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPanda1701&theme=algolia" />
+</p>
+
+
+
+
+
+
+
+<h2 align='left'>Thank You ❤</h2>
+
+ 
+<br>
+
 
