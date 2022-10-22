@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Node, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://hackersushant76.github.io/](https://hackersushant76.github.io/)
+- 👨‍💻 All of my projects are available at [https://sonugup.github.io/](https://sonugup.github.io/)
 
 - 💬 Ask me about **React ,Redux, JavaScript(ES6+)**
 
-- 📫 How to reach me **sushantsingh76626@gmail.com**
+- 📫 How to reach me **rg3029926@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,10 +33,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackersushant76&show_icons=true&locale=en&layout=compact" alt="hackersushant76" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackersushant76&show_icons=true&locale=en" alt="hackersushant76" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonugup&show_icons=true&locale=en" alt="hackersushant76" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonugou" alt="hackersonu76" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonugou" alt="sonugup" /></p>
 
 
 <p>
