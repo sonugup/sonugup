@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋 Hi, I'm Akash Kumar Panda!
+ 👋 Hi, I'm Sonu Gupta!
 </h1>
 <p>I'm a recent computer science graduate
 with a passion for developing scalable
@@ -15,7 +15,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 ## Connect with me:
 
 <p >
-  <a href="https://www.linkedin.com/in/akashpanda1701/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/sonu-gupta-34346723/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
@@ -36,7 +36,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 - 👨‍💻 This is [My Portfolio]
 
 -  📄 This is [My Resume]
-- 📫 How to reach me: ...*akashpanda1701@gmail.com*
+- 📫 How to reach me: ...*rg3029926@gmail.com*
 
 
 
@@ -52,12 +52,12 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-   <a href="https://github.com/AkashPanda1701"><img alt="Akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkashPanda1701&custom_title=AkashPanda1701's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sonugup"><img alt="Sonu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonugup&custom_title=sonugup's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkashPanda1701" alt="akash" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonugup" alt="sonu" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -72,11 +72,11 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashPanda1701&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashPanda1701&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashPanda1701&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashPanda1701&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashPanda1701&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonugup&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonugup&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonugup&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonugup&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonugpu&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -95,8 +95,8 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=AkashPanda1701&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPanda1701&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=sonugup&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sonugup&theme=algolia" />
 </p>
 
 
