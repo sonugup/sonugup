@@ -15,7 +15,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 ## Connect with me:
 
 <p >
-  <a href="https://www.linkedin.com/in/sonu-gupta-34346723/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="[https://www.linkedin.com/in/sonu-gupta-34346723/](https://www.linkedin.com/in/sonu-gupta-343467230/)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
