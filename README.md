@@ -112,7 +112,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
     </a>
 </p> -->
 
- <a href="https://github.com/sonugup/github-readme-activity-graph"><img alt="sonugup Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=santoshy1101&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/sonugup/github-readme-activity-graph"><img alt="sonugup Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sonugup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <h2 align='left'>Thank You ❤</h2>
