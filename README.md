@@ -1,6 +1,7 @@
 <h1 align="center">
  👋 Hi, I'm Sonu Gupta!
 </h1>
+<img align="centre" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg">
 <p>I'm a recent computer science graduate
 with a passion for developing scalable
 web applications and working across
