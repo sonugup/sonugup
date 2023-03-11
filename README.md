@@ -56,7 +56,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-   <a href="https://github.com/sonugup"><img alt="Sonu's Activity Graph" src="https://avatars.githubusercontent.com/u/101567095?v=4/graph?username=sonugup&custom_title=sonugup's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sonugup"><img alt="Sonu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sonugup&custom_title=sonugup's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
