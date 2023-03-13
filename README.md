@@ -2,7 +2,7 @@
  👋 Hi, I'm Sonu Gupta!
 </h1>
 <img align="centre" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg">
-<p>I'm a recent computer science graduate
+<h3>I'm a recent computer science graduate
 with a passion for developing scalable
 web applications and working across
 the full stack. Passionate about
@@ -10,7 +10,7 @@ implementing new ideas in reality.
 Looking for the opportunity
 where I can utilize the extensive
 knowledge I have gained during my
-Full stack web development course😃. I focuses on writing clean, elegant and efficient code ✨</p>
+Full stack web development course😃. I focuses on writing clean, elegant and efficient code ✨</h3>
 
 
 ## Connect with me:
