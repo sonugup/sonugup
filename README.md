@@ -37,7 +37,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 - 🔭 I’m currently working on Frontend and Backend technologies 😅
 - 👨‍💻 I’m currently learning React, Express, NodeJs, MongoDb at Masai School.
 - 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
-- 👨‍💻 This is [My Portfolio]
+- 👨‍💻 Know about my experiences [My Portfolio]
 
 -  📄 This is [My Resume](https://drive.google.com/file/d/1ylLqwNKMExO9HzJC6ew_Lgm1Z3fqoeYT/view?usp=sharing)
 - 📫 How to reach me: ...*rg3029926@gmail.com*
