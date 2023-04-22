@@ -39,7 +39,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 - 🌱 I’m currently learning **React Native**
 - 🎯 I also solve problems on [leetcode](https://leetcode.com/Sonugup/)
 - 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
-- 👨‍💻 Know about my experiences [My Portfolio]
+- 👨‍💻  Know more about me [Portfolio](https://sonugup.github.io/)
 
 -  📄 This is [My Resume](https://drive.google.com/file/d/1ylLqwNKMExO9HzJC6ew_Lgm1Z3fqoeYT/view?usp=sharing)
 - 📫 How to reach me: ...*rg3029926@gmail.com*
