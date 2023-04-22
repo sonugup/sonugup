@@ -44,7 +44,9 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 - 📫 How to reach me: ...*rg3029926@gmail.com*
 
 
-
+⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
+<h3><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" height="30" width="30"/>
+ I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
