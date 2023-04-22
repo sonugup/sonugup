@@ -39,7 +39,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 - 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
 - 👨‍💻 This is [My Portfolio]
 
--  📄 This is [My Resume]
+-  📄 This is [My Resume](https://drive.google.com/file/d/1ylLqwNKMExO9HzJC6ew_Lgm1Z3fqoeYT/view?usp=sharing)
 - 📫 How to reach me: ...*rg3029926@gmail.com*
 
 
