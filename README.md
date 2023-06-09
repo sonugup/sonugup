@@ -121,7 +121,6 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
 
 <h2 align='left'>Thank You ❤</h2>
-
  
 <br>
 
