@@ -12,6 +12,7 @@ where I can utilize the extensive
 knowledge I have gained during my
 Full stack web development course😃. I focuses on writing clean, elegant and efficient code ✨</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonugup&label=Profile%20views&color=0e75b6&style=flat" alt="sonugup" /> </p>
 
 ## Connect with me:
 
